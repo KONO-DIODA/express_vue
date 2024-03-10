@@ -1,0 +1,2 @@
+
+7444b5ce236c020426c80243c3169d42b3a71331	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/joi","integrity":null,"time":1709537126671,"size":"262","metadata":{"time":1709537126671,"url":"https://registry.npm.taobao.org/joi","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Mon, 04 Mar 2024 07:25:26 GMT","location":"https://registry.npmmirror.com/joi"},"options":{"compress":true},"status":301}}

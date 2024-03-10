@@ -1,0 +1,2 @@
+
+281a8afd8a0b47d75284a0165dbfafe4d03cccb9	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/is-number","integrity":null,"time":1709445641994,"size":"262","metadata":{"time":1709445641994,"url":"https://registry.npm.taobao.org/is-number","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sun, 03 Mar 2024 06:00:42 GMT","location":"https://registry.npmmirror.com/is-number"},"options":{"compress":true},"status":301}}

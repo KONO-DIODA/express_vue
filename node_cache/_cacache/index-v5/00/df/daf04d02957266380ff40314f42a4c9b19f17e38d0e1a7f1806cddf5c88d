@@ -1,0 +1,2 @@
+
+c1e9fe4b3162d66d1bb1aea3f891cb361755ea09	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/touch","integrity":null,"time":1709445641355,"size":"262","metadata":{"time":1709445641355,"url":"https://registry.npm.taobao.org/touch","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sun, 03 Mar 2024 06:00:41 GMT","location":"https://registry.npmmirror.com/touch"},"options":{"compress":true},"status":301}}

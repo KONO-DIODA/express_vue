@@ -1,0 +1,2 @@
+
+525a21d943f9df0c4fd5d32a6a93b88f49794523	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/pstree.remy","integrity":null,"time":1709445641343,"size":"262","metadata":{"time":1709445641343,"url":"https://registry.npm.taobao.org/pstree.remy","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sun, 03 Mar 2024 06:00:41 GMT","location":"https://registry.npmmirror.com/pstree.remy"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+e3da659ebdfe14bedc732f5353cc050c0986381f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/vue/-/vue-3.2.47.tgz","integrity":null,"time":1709440267806,"size":"262","metadata":{"time":1709440267806,"url":"https://registry.npm.taobao.org/vue/-/vue-3.2.47.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 03 Mar 2024 04:31:08 GMT","location":"https://registry.npmmirror.com/vue/-/vue-3.2.47.tgz"},"options":{"compress":true},"status":301}}

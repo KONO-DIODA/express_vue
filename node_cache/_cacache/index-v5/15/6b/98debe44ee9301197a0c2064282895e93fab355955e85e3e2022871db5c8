@@ -1,0 +1,2 @@
+
+35edd27f75f6f1c83f0d8b8a46005e8bc6a129fb	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/nodemon","integrity":null,"time":1709445641017,"size":"262","metadata":{"time":1709445641017,"url":"https://registry.npm.taobao.org/nodemon","reqHeaders":{"accept":"application/vnd.npm.install-v1+json; q=1.0, application/json; q=0.8, */*"},"resHeaders":{"content-type":"text/html","date":"Sun, 03 Mar 2024 06:00:41 GMT","location":"https://registry.npmmirror.com/nodemon"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+614b3c9ff5a1da83b7a9120103d5c4851cb37421	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/compression/-/compression-1.7.4.tgz","integrity":null,"time":1709440269760,"size":"262","metadata":{"time":1709440269760,"url":"https://registry.npm.taobao.org/compression/-/compression-1.7.4.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 03 Mar 2024 04:31:10 GMT","location":"https://registry.npmmirror.com/compression/-/compression-1.7.4.tgz"},"options":{"compress":true},"status":301}}

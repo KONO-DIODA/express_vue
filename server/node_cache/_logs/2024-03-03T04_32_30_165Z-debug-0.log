@@ -1,0 +1,201 @@
+0 verbose cli D:\nodejs\node.exe D:\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@9.6.7
+2 info using node@v18.17.0
+3 timing npm:load:whichnode Completed in 2ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:D:\nodejs\node_modules\npm\npmrc Completed in 2ms
+6 timing config:load:builtin Completed in 2ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:D:\前端学习\Vue\express_vue_project\expressVueProject\server\.npmrc Completed in 0ms
+10 timing config:load:project Completed in 1ms
+11 timing config:load:file:C:\Users\白\.npmrc Completed in 1ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:D:\前端学习\Vue\express_vue_project\expressVueProject\server\node_global\etc\npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 1ms
+16 timing config:load Completed in 10ms
+17 timing npm:load:configload Completed in 10ms
+18 timing npm:load:mkdirpcache Completed in 1ms
+19 timing npm:load:mkdirplogs Completed in 0ms
+20 verbose title npm install
+21 verbose argv "install"
+22 timing npm:load:setTitle Completed in 1ms
+23 timing config:load:flatten Completed in 3ms
+24 timing npm:load:display Completed in 3ms
+25 verbose logfile logs-max:10 dir:D:\前端学习\Vue\express_vue_project\expressVueProject\server\node_cache\_logs\2024-03-03T04_32_30_165Z-
+26 verbose logfile D:\前端学习\Vue\express_vue_project\expressVueProject\server\node_cache\_logs\2024-03-03T04_32_30_165Z-debug-0.log
+27 timing npm:load:logFile Completed in 19ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 36ms
+31 timing arborist:ctor Completed in 1ms
+32 silly logfile done cleaning log files
+33 timing idealTree:init Completed in 56ms
+34 timing idealTree:userRequests Completed in 0ms
+35 silly idealTree buildDeps
+36 timing idealTree:#root Completed in 0ms
+37 timing idealTree:buildDeps Completed in 3ms
+38 timing idealTree:fixDepFlags Completed in 0ms
+39 timing idealTree Completed in 62ms
+40 timing arborist:ctor Completed in 0ms
+41 timing reify:loadTrees Completed in 81ms
+42 timing reify:diffTrees Completed in 4ms
+43 silly reify moves {}
+44 timing reify:retireShallow Completed in 1ms
+45 timing reify:createSparse Completed in 0ms
+46 timing reify:loadBundles Completed in 0ms
+47 silly audit bulk request {
+47 silly audit   '@escook/express-joi': [ '1.1.1' ],
+47 silly audit   '@hapi/hoek': [ '9.3.0' ],
+47 silly audit   '@hapi/topo': [ '5.1.0' ],
+47 silly audit   '@sideway/address': [ '4.1.4' ],
+47 silly audit   '@sideway/formula': [ '3.0.1' ],
+47 silly audit   '@sideway/pinpoint': [ '2.0.0' ],
+47 silly audit   accepts: [ '1.3.8' ],
+47 silly audit   'array-flatten': [ '1.1.1' ],
+47 silly audit   async: [ '1.5.2' ],
+47 silly audit   bcryptjs: [ '2.4.3' ],
+47 silly audit   'bignumber.js': [ '9.0.0' ],
+47 silly audit   'body-parser': [ '1.19.2' ],
+47 silly audit   'buffer-equal-constant-time': [ '1.0.1' ],
+47 silly audit   bytes: [ '3.1.2' ],
+47 silly audit   'content-disposition': [ '0.5.4' ],
+47 silly audit   'content-type': [ '1.0.5' ],
+47 silly audit   cookie: [ '0.4.2' ],
+47 silly audit   'cookie-signature': [ '1.0.6' ],
+47 silly audit   'core-util-is': [ '1.0.3' ],
+47 silly audit   cors: [ '2.8.5' ],
+47 silly audit   debug: [ '2.6.9' ],
+47 silly audit   depd: [ '1.1.2' ],
+47 silly audit   destroy: [ '1.0.4' ],
+47 silly audit   'ecdsa-sig-formatter': [ '1.0.11' ],
+47 silly audit   'ee-first': [ '1.1.1' ],
+47 silly audit   encodeurl: [ '1.0.2' ],
+47 silly audit   'escape-html': [ '1.0.3' ],
+47 silly audit   etag: [ '1.8.1' ],
+47 silly audit   express: [ '4.17.3' ],
+47 silly audit   'express-jwt': [ '5.3.3' ],
+47 silly audit   jsonwebtoken: [ '8.5.1', '9.0.2' ],
+47 silly audit   ms: [ '2.1.3', '2.0.0' ],
+47 silly audit   semver: [ '5.7.2', '7.5.4' ],
+47 silly audit   'express-unless': [ '0.3.1' ],
+47 silly audit   finalhandler: [ '1.1.2' ],
+47 silly audit   forwarded: [ '0.2.0' ],
+47 silly audit   fresh: [ '0.5.2' ],
+47 silly audit   'http-errors': [ '1.8.1' ],
+47 silly audit   'iconv-lite': [ '0.4.24' ],
+47 silly audit   inherits: [ '2.0.4' ],
+47 silly audit   'ipaddr.js': [ '1.9.1' ],
+47 silly audit   isarray: [ '1.0.0' ],
+47 silly audit   joi: [ '17.7.1' ],
+47 silly audit   jwa: [ '1.4.1' ],
+47 silly audit   jws: [ '3.2.2' ],
+47 silly audit   'lodash.includes': [ '4.3.0' ],
+47 silly audit   'lodash.isboolean': [ '3.0.3' ],
+47 silly audit   'lodash.isinteger': [ '4.0.4' ],
+47 silly audit   'lodash.isnumber': [ '3.0.3' ],
+47 silly audit   'lodash.isplainobject': [ '4.0.6' ],
+47 silly audit   'lodash.isstring': [ '4.0.1' ],
+47 silly audit   'lodash.once': [ '4.1.1' ],
+47 silly audit   'lodash.set': [ '4.3.2' ],
+47 silly audit   'lru-cache': [ '6.0.0' ],
+47 silly audit   'media-typer': [ '0.3.0' ],
+47 silly audit   'merge-descriptors': [ '1.0.1' ],
+47 silly audit   methods: [ '1.1.2' ],
+47 silly audit   mime: [ '1.6.0' ],
+47 silly audit   'mime-db': [ '1.52.0' ],
+47 silly audit   'mime-types': [ '2.1.35' ],
+47 silly audit   mysql: [ '2.18.1' ],
+47 silly audit   'safe-buffer': [ '5.1.2', '5.2.1' ],
+47 silly audit   negotiator: [ '0.6.3' ],
+47 silly audit   'object-assign': [ '4.1.1' ],
+47 silly audit   'on-finished': [ '2.3.0' ],
+47 silly audit   parseurl: [ '1.3.3' ],
+47 silly audit   'path-to-regexp': [ '0.1.7' ],
+47 silly audit   'process-nextick-args': [ '2.0.1' ],
+47 silly audit   'proxy-addr': [ '2.0.7' ],
+47 silly audit   qs: [ '6.9.7' ],
+47 silly audit   'range-parser': [ '1.2.1' ],
+47 silly audit   'raw-body': [ '2.4.3' ],
+47 silly audit   'readable-stream': [ '2.3.7' ],
+47 silly audit   'safer-buffer': [ '2.1.2' ],
+47 silly audit   send: [ '0.17.2' ],
+47 silly audit   'serve-static': [ '1.14.2' ],
+47 silly audit   setprototypeof: [ '1.2.0' ],
+47 silly audit   sqlstring: [ '2.3.1' ],
+47 silly audit   statuses: [ '1.5.0' ],
+47 silly audit   string_decoder: [ '1.1.1' ],
+47 silly audit   toidentifier: [ '1.0.1' ],
+47 silly audit   'type-is': [ '1.6.18' ],
+47 silly audit   unpipe: [ '1.0.0' ],
+47 silly audit   'util-deprecate': [ '1.0.2' ],
+47 silly audit   'utils-merge': [ '1.0.1' ],
+47 silly audit   vary: [ '1.1.2' ],
+47 silly audit   yallist: [ '4.0.0' ]
+47 silly audit }
+48 timing reify:unpack Completed in 2ms
+49 timing reify:unretire Completed in 0ms
+50 timing build:queue Completed in 0ms
+51 timing build:deps Completed in 0ms
+52 timing build Completed in 1ms
+53 timing reify:build Completed in 1ms
+54 timing reify:trash Completed in 0ms
+55 timing reify:save Completed in 20ms
+56 http fetch POST 501 https://registry.npmmirror.com/-/npm/v1/security/advisories/bulk 70747ms attempt #3 (cache skip)
+57 silly audit bulk request failed [object Object]
+58 http fetch POST 501 https://registry.npmmirror.com/-/npm/v1/security/audits/quick 70530ms attempt #3 (cache skip)
+59 verbose audit error HttpErrorGeneral: 501 Method Not Implemented - POST https://registry.npmmirror.com/-/npm/v1/security/audits/quick - [NOT_IMPLEMENTED] /-/npm/v1/security/audits/quick not implemented yet
+59 verbose audit error     at D:\nodejs\node_modules\npm\node_modules\npm-registry-fetch\lib\check-response.js:95:15
+59 verbose audit error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+59 verbose audit error     at async [getReport] (D:\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\audit-report.js:335:21)
+59 verbose audit error     at async AuditReport.run (D:\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\audit-report.js:106:19)
+59 verbose audit error     at async Arborist.reify (D:\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\reify.js:179:24)
+59 verbose audit error     at async Install.exec (D:\nodejs\node_modules\npm\lib\commands\install.js:147:5)
+59 verbose audit error     at async module.exports (D:\nodejs\node_modules\npm\lib\cli.js:89:5) {
+59 verbose audit error   headers: [Object: null prototype] {
+59 verbose audit error     server: [ 'Tengine' ],
+59 verbose audit error     'content-type': [ 'application/json; charset=utf-8' ],
+59 verbose audit error     'content-length': [ '81' ],
+59 verbose audit error     connection: [ 'keep-alive' ],
+59 verbose audit error     'strict-transport-security': [ 'max-age=5184000' ],
+59 verbose audit error     date: [ 'Sun, 03 Mar 2024 04:34:52 GMT' ],
+59 verbose audit error     vary: [ 'Origin' ],
+59 verbose audit error     'request-id': [ '60966bd0-d917-11ee-baba-51d7ae68ccc2' ],
+59 verbose audit error     'x-frame-options': [ 'SAMEORIGIN' ],
+59 verbose audit error     'x-xss-protection': [ '1; mode=block' ],
+59 verbose audit error     'x-content-type-options': [ 'nosniff' ],
+59 verbose audit error     'x-download-options': [ 'noopen' ],
+59 verbose audit error     'x-readtime': [ '0.522' ],
+59 verbose audit error     'ali-swift-global-savetime': [ '1709440492' ],
+59 verbose audit error     via: [
+59 verbose audit error       'cache37.l2cn3148[28,28,501-1281,M], cache58.l2cn3148[29,0], kunlun6.cn1416[119,119,501-1281,M], kunlun10.cn1416[126,0]'
+59 verbose audit error     ],
+59 verbose audit error     age: [ '0' ],
+59 verbose audit error     'x-cache': [ 'MISS TCP_MISS dirn:-2:-2' ],
+59 verbose audit error     'x-swift-error': [ 'orig response 5xx error' ],
+59 verbose audit error     'x-swift-savetime': [ 'Sun, 03 Mar 2024 04:34:52 GMT' ],
+59 verbose audit error     'x-swift-cachetime': [ '1' ],
+59 verbose audit error     'timing-allow-origin': [ '*' ],
+59 verbose audit error     eagleid: [ 'df6f181e17094404921994630e' ],
+59 verbose audit error     'x-fetch-attempts': [ '3' ],
+59 verbose audit error     'x-local-cache-status': [ 'skip' ]
+59 verbose audit error   },
+59 verbose audit error   statusCode: 501,
+59 verbose audit error   code: 'E501',
+59 verbose audit error   method: 'POST',
+59 verbose audit error   uri: 'https://registry.npmmirror.com/-/npm/v1/security/audits/quick',
+59 verbose audit error   body: {
+59 verbose audit error     error: '[NOT_IMPLEMENTED] /-/npm/v1/security/audits/quick not implemented yet'
+59 verbose audit error   },
+59 verbose audit error   pkgid: undefined
+59 verbose audit error }
+60 silly audit error [object Object]
+61 timing auditReport:getReport Completed in 141292ms
+62 silly audit report null
+63 timing reify:audit Completed in 141292ms
+64 timing reify Completed in 141384ms
+65 timing command:install Completed in 141392ms
+66 verbose exit 0
+67 timing npm Completed in 141764ms
+68 info ok

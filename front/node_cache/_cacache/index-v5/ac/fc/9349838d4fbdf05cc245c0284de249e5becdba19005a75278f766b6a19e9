@@ -1,0 +1,2 @@
+
+ea3254bfe46552b437c7f3b5f924cf8cd2803acc	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/needle/-/needle-2.9.1.tgz","integrity":null,"time":1709440268483,"size":"262","metadata":{"time":1709440268483,"url":"https://registry.npm.taobao.org/needle/-/needle-2.9.1.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 03 Mar 2024 04:31:08 GMT","location":"https://registry.npmmirror.com/needle/-/needle-2.9.1.tgz"},"options":{"compress":true},"status":301}}

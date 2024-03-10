@@ -1,0 +1,50 @@
+0 verbose cli D:\nodejs\node.exe D:\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@9.6.7
+2 info using node@v18.17.0
+3 timing npm:load:whichnode Completed in 2ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:D:\nodejs\node_modules\npm\npmrc Completed in 3ms
+6 timing config:load:builtin Completed in 3ms
+7 timing config:load:cli Completed in 1ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:D:\前端学习\Vue\express_vue_project\expressVueProject\server\.npmrc Completed in 0ms
+10 timing config:load:project Completed in 3ms
+11 timing config:load:file:C:\Users\白\.npmrc Completed in 1ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:D:\前端学习\Vue\express_vue_project\expressVueProject\server\node_global\etc\npmrc Completed in 1ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:setEnvs Completed in 1ms
+16 timing config:load Completed in 13ms
+17 timing npm:load:configload Completed in 13ms
+18 timing npm:load:mkdirpcache Completed in 0ms
+19 timing npm:load:mkdirplogs Completed in 0ms
+20 verbose title npm run serve
+21 verbose argv "run" "serve"
+22 timing npm:load:setTitle Completed in 1ms
+23 timing config:load:flatten Completed in 2ms
+24 timing npm:load:display Completed in 3ms
+25 verbose logfile logs-max:10 dir:D:\前端学习\Vue\express_vue_project\expressVueProject\server\node_cache\_logs\2024-03-03T12_25_46_445Z-
+26 verbose logfile D:\前端学习\Vue\express_vue_project\expressVueProject\server\node_cache\_logs\2024-03-03T12_25_46_445Z-debug-0.log
+27 timing npm:load:logFile Completed in 8ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 27ms
+31 timing command:run Completed in 5ms
+32 verbose stack Error: Missing script: "serve"
+32 verbose stack
+32 verbose stack To see a list of scripts, run:
+32 verbose stack   npm run
+32 verbose stack     at RunScript.run (D:\nodejs\node_modules\npm\lib\commands\run-script.js:93:13)
+32 verbose stack     at async module.exports (D:\nodejs\node_modules\npm\lib\cli.js:89:5)
+33 verbose cwd D:\前端学习\Vue\express_vue_project\expressVueProject\server
+34 verbose Windows_NT 10.0.19045
+35 verbose node v18.17.0
+36 verbose npm  v9.6.7
+37 error Missing script: "serve"
+37 error
+37 error To see a list of scripts, run:
+37 error   npm run
+38 verbose exit 1
+39 timing npm Completed in 96ms
+40 verbose code 1
+41 error A complete log of this run can be found in: D:\前端学习\Vue\express_vue_project\expressVueProject\server\node_cache\_logs\2024-03-03T12_25_46_445Z-debug-0.log

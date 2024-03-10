@@ -1,0 +1,2 @@
+
+d9807c1e7a5c3f812385f64c658d30df7265341c	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/tar/-/tar-6.1.13.tgz","integrity":null,"time":1709440267885,"size":"262","metadata":{"time":1709440267885,"url":"https://registry.npm.taobao.org/tar/-/tar-6.1.13.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 03 Mar 2024 04:31:08 GMT","location":"https://registry.npmmirror.com/tar/-/tar-6.1.13.tgz"},"options":{"compress":true},"status":301}}

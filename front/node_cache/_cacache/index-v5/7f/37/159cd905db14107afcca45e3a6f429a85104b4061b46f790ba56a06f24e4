@@ -1,0 +1,2 @@
+
+517c46743eadb225490f0e2c1dff127dcbb34ea8	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/spdy/-/spdy-4.0.2.tgz","integrity":null,"time":1709440267923,"size":"262","metadata":{"time":1709440267923,"url":"https://registry.npm.taobao.org/spdy/-/spdy-4.0.2.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/html","date":"Sun, 03 Mar 2024 04:31:08 GMT","location":"https://registry.npmmirror.com/spdy/-/spdy-4.0.2.tgz"},"options":{"compress":true},"status":301}}
